@@ -1,0 +1,15 @@
+C:\Users\10963252\Desktop\my-code-dir\lab-5-mastermind-AustinCha07\bin\Debug\net10.0\lab-5-mastermind-AustinCha07.exe
+C:\Users\10963252\Desktop\my-code-dir\lab-5-mastermind-AustinCha07\bin\Debug\net10.0\lab-5-mastermind-AustinCha07.deps.json
+C:\Users\10963252\Desktop\my-code-dir\lab-5-mastermind-AustinCha07\bin\Debug\net10.0\lab-5-mastermind-AustinCha07.runtimeconfig.json
+C:\Users\10963252\Desktop\my-code-dir\lab-5-mastermind-AustinCha07\bin\Debug\net10.0\lab-5-mastermind-AustinCha07.dll
+C:\Users\10963252\Desktop\my-code-dir\lab-5-mastermind-AustinCha07\bin\Debug\net10.0\lab-5-mastermind-AustinCha07.pdb
+C:\Users\10963252\Desktop\my-code-dir\lab-5-mastermind-AustinCha07\obj\Debug\net10.0\lab-5-mastermind-AustinCha07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10963252\Desktop\my-code-dir\lab-5-mastermind-AustinCha07\obj\Debug\net10.0\lab-5-mastermind-AustinCha07.AssemblyInfoInputs.cache
+C:\Users\10963252\Desktop\my-code-dir\lab-5-mastermind-AustinCha07\obj\Debug\net10.0\lab-5-mastermind-AustinCha07.AssemblyInfo.cs
+C:\Users\10963252\Desktop\my-code-dir\lab-5-mastermind-AustinCha07\obj\Debug\net10.0\lab-5-mastermind-AustinCha07.csproj.CoreCompileInputs.cache
+C:\Users\10963252\Desktop\my-code-dir\lab-5-mastermind-AustinCha07\obj\Debug\net10.0\lab-5-mastermind-AustinCha07.sourcelink.json
+C:\Users\10963252\Desktop\my-code-dir\lab-5-mastermind-AustinCha07\obj\Debug\net10.0\lab-5-mastermind-AustinCha07.dll
+C:\Users\10963252\Desktop\my-code-dir\lab-5-mastermind-AustinCha07\obj\Debug\net10.0\refint\lab-5-mastermind-AustinCha07.dll
+C:\Users\10963252\Desktop\my-code-dir\lab-5-mastermind-AustinCha07\obj\Debug\net10.0\lab-5-mastermind-AustinCha07.pdb
+C:\Users\10963252\Desktop\my-code-dir\lab-5-mastermind-AustinCha07\obj\Debug\net10.0\lab-5-mastermind-AustinCha07.genruntimeconfig.cache
+C:\Users\10963252\Desktop\my-code-dir\lab-5-mastermind-AustinCha07\obj\Debug\net10.0\ref\lab-5-mastermind-AustinCha07.dll
